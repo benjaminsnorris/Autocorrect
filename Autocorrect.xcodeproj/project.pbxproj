@@ -19,6 +19,17 @@
 		713E0898193EE8FB006CA563 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 713E0880193EE8FB006CA563 /* UIKit.framework */; };
 		713E08A0193EE8FB006CA563 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 713E089E193EE8FB006CA563 /* InfoPlist.strings */; };
 		713E08A2193EE8FB006CA563 /* AutocorrectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 713E08A1193EE8FB006CA563 /* AutocorrectTests.m */; };
+		E7F593E319D3B03D0046472B /* bat.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593DB19D3B03D0046472B /* bat.png */; };
+		E7F593E419D3B03D0046472B /* chicken.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593DC19D3B03D0046472B /* chicken.png */; };
+		E7F593E519D3B03D0046472B /* cow.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593DD19D3B03D0046472B /* cow.png */; };
+		E7F593E619D3B03D0046472B /* gorilla.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593DE19D3B03D0046472B /* gorilla.png */; };
+		E7F593E719D3B03D0046472B /* octopus.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593DF19D3B03D0046472B /* octopus.png */; };
+		E7F593E819D3B03D0046472B /* pig.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593E019D3B03D0046472B /* pig.png */; };
+		E7F593E919D3B03D0046472B /* pizza.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593E119D3B03D0046472B /* pizza.png */; };
+		E7F593EA19D3B03D0046472B /* rabbit.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593E219D3B03D0046472B /* rabbit.png */; };
+		E7F593EE19D3B0EF0046472B /* dolphin.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593EC19D3B0EF0046472B /* dolphin.png */; };
+		E7F593EF19D3B0EF0046472B /* turtle.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F593ED19D3B0EF0046472B /* turtle.png */; };
+		E7F593F519D3B1490046472B /* ACPagingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7F593F419D3B1490046472B /* ACPagingViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +59,18 @@
 		713E089D193EE8FB006CA563 /* AutocorrectTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AutocorrectTests-Info.plist"; sourceTree = "<group>"; };
 		713E089F193EE8FB006CA563 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		713E08A1193EE8FB006CA563 /* AutocorrectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutocorrectTests.m; sourceTree = "<group>"; };
+		E7F593DB19D3B03D0046472B /* bat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bat.png; path = ../../../../../Desktop/bat.png; sourceTree = "<group>"; };
+		E7F593DC19D3B03D0046472B /* chicken.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chicken.png; path = ../../../../../Desktop/chicken.png; sourceTree = "<group>"; };
+		E7F593DD19D3B03D0046472B /* cow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cow.png; path = ../../../../../Desktop/cow.png; sourceTree = "<group>"; };
+		E7F593DE19D3B03D0046472B /* gorilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gorilla.png; path = ../../../../../Desktop/gorilla.png; sourceTree = "<group>"; };
+		E7F593DF19D3B03D0046472B /* octopus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = octopus.png; path = ../../../../../Desktop/octopus.png; sourceTree = "<group>"; };
+		E7F593E019D3B03D0046472B /* pig.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pig.png; path = ../../../../../Desktop/pig.png; sourceTree = "<group>"; };
+		E7F593E119D3B03D0046472B /* pizza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pizza.png; path = ../../../../../Desktop/pizza.png; sourceTree = "<group>"; };
+		E7F593E219D3B03D0046472B /* rabbit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rabbit.png; path = ../../../../../Desktop/rabbit.png; sourceTree = "<group>"; };
+		E7F593EC19D3B0EF0046472B /* dolphin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dolphin.png; path = ../../../../../Desktop/dolphin.png; sourceTree = "<group>"; };
+		E7F593ED19D3B0EF0046472B /* turtle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = turtle.png; path = ../../../../../Desktop/turtle.png; sourceTree = "<group>"; };
+		E7F593F319D3B1490046472B /* ACPagingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACPagingViewController.h; sourceTree = "<group>"; };
+		E7F593F419D3B1490046472B /* ACPagingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACPagingViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +132,9 @@
 			children = (
 				713E088B193EE8FB006CA563 /* ACAppDelegate.h */,
 				713E088C193EE8FB006CA563 /* ACAppDelegate.m */,
+				E7F593F319D3B1490046472B /* ACPagingViewController.h */,
+				E7F593F419D3B1490046472B /* ACPagingViewController.m */,
+				E7F593EB19D3B0490046472B /* Images */,
 				713E088E193EE8FB006CA563 /* Images.xcassets */,
 				713E0883193EE8FB006CA563 /* Supporting Files */,
 			);
@@ -142,6 +168,23 @@
 				713E089E193EE8FB006CA563 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E7F593EB19D3B0490046472B /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				E7F593EC19D3B0EF0046472B /* dolphin.png */,
+				E7F593ED19D3B0EF0046472B /* turtle.png */,
+				E7F593DB19D3B03D0046472B /* bat.png */,
+				E7F593DC19D3B03D0046472B /* chicken.png */,
+				E7F593DD19D3B03D0046472B /* cow.png */,
+				E7F593DE19D3B03D0046472B /* gorilla.png */,
+				E7F593DF19D3B03D0046472B /* octopus.png */,
+				E7F593E019D3B03D0046472B /* pig.png */,
+				E7F593E119D3B03D0046472B /* pizza.png */,
+				E7F593E219D3B03D0046472B /* rabbit.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,8 +263,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7F593E719D3B03D0046472B /* octopus.png in Resources */,
+				E7F593EE19D3B0EF0046472B /* dolphin.png in Resources */,
+				E7F593E319D3B03D0046472B /* bat.png in Resources */,
+				E7F593E819D3B03D0046472B /* pig.png in Resources */,
 				713E0887193EE8FB006CA563 /* InfoPlist.strings in Resources */,
+				E7F593EF19D3B0EF0046472B /* turtle.png in Resources */,
 				713E088F193EE8FB006CA563 /* Images.xcassets in Resources */,
+				E7F593EA19D3B03D0046472B /* rabbit.png in Resources */,
+				E7F593E919D3B03D0046472B /* pizza.png in Resources */,
+				E7F593E419D3B03D0046472B /* chicken.png in Resources */,
+				E7F593E619D3B03D0046472B /* gorilla.png in Resources */,
+				E7F593E519D3B03D0046472B /* cow.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,6 +295,7 @@
 			files = (
 				713E088D193EE8FB006CA563 /* ACAppDelegate.m in Sources */,
 				713E0889193EE8FB006CA563 /* main.m in Sources */,
+				E7F593F519D3B1490046472B /* ACPagingViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -438,6 +492,7 @@
 				713E08A7193EE8FB006CA563 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		713E08A8193EE8FB006CA563 /* Build configuration list for PBXNativeTarget "AutocorrectTests" */ = {
 			isa = XCConfigurationList;
@@ -446,6 +501,7 @@
 				713E08AA193EE8FB006CA563 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

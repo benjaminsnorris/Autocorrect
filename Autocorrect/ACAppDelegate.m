@@ -7,6 +7,7 @@
 //
 
 #import "ACAppDelegate.h"
+#import "ACPagingViewController.h"
 
 @implementation ACAppDelegate
 
@@ -14,6 +15,11 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
+    
+    ACPagingViewController *pagingViewController = [ACPagingViewController new];
+    
+    self.window.rootViewController = pagingViewController;
+    
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;
